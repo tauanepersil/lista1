@@ -1,6 +1,0 @@
-Questão 4
-Trecho 1: Está errado. O “console.log” deveria estar dentro do “if”, pois o “let” só será lido dentro dele.
-Trecho 2: Está correto
-Trecho 3: No lugar dos dois pontos deveria ser um sinal de igual
-Trecho 4: No lugar dos dois pontos deveria ser um sinal de igual
-
